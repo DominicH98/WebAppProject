@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MaritimeDatabase", "MaritimeDatabase.sqlproj", "{D034607F-E53D-422F-AC36-FC8B57C42718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaritimeApplication", "..\MaritimeApplication\MaritimeApplication.csproj", "{474DB433-0391-0E0B-3E4C-7C8C88063611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D034607F-E53D-422F-AC36-FC8B57C42718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D034607F-E53D-422F-AC36-FC8B57C42718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D034607F-E53D-422F-AC36-FC8B57C42718}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D034607F-E53D-422F-AC36-FC8B57C42718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D034607F-E53D-422F-AC36-FC8B57C42718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D034607F-E53D-422F-AC36-FC8B57C42718}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{474DB433-0391-0E0B-3E4C-7C8C88063611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474DB433-0391-0E0B-3E4C-7C8C88063611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474DB433-0391-0E0B-3E4C-7C8C88063611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474DB433-0391-0E0B-3E4C-7C8C88063611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5DA7A44-4C8B-462C-A3F3-0D9BE4E194F3}
+	EndGlobalSection
+EndGlobal
